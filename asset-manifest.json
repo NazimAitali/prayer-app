@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/prayer-app/static/css/main.a3c7fc4f.chunk.css",
+    "main.js": "/prayer-app/static/js/main.7be7ebaa.chunk.js",
+    "main.js.map": "/prayer-app/static/js/main.7be7ebaa.chunk.js.map",
+    "runtime-main.js": "/prayer-app/static/js/runtime-main.783cef46.js",
+    "runtime-main.js.map": "/prayer-app/static/js/runtime-main.783cef46.js.map",
+    "static/css/2.cd846464.chunk.css": "/prayer-app/static/css/2.cd846464.chunk.css",
+    "static/js/2.f2ddd211.chunk.js": "/prayer-app/static/js/2.f2ddd211.chunk.js",
+    "static/js/2.f2ddd211.chunk.js.map": "/prayer-app/static/js/2.f2ddd211.chunk.js.map",
+    "index.html": "/prayer-app/index.html",
+    "precache-manifest.df937560d0e0717afcfb409757164130.js": "/prayer-app/precache-manifest.df937560d0e0717afcfb409757164130.js",
+    "service-worker.js": "/prayer-app/service-worker.js",
+    "static/css/2.cd846464.chunk.css.map": "/prayer-app/static/css/2.cd846464.chunk.css.map",
+    "static/css/main.a3c7fc4f.chunk.css.map": "/prayer-app/static/css/main.a3c7fc4f.chunk.css.map",
+    "static/js/2.f2ddd211.chunk.js.LICENSE.txt": "/prayer-app/static/js/2.f2ddd211.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/prayer-app/static/media/no-data.f908c3e4.png",
+    "static/media/index.css": "/prayer-app/static/media/bg.6a2586c4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.783cef46.js",
+    "static/css/2.cd846464.chunk.css",
+    "static/js/2.f2ddd211.chunk.js",
+    "static/css/main.a3c7fc4f.chunk.css",
+    "static/js/main.7be7ebaa.chunk.js"
+  ]
+}
